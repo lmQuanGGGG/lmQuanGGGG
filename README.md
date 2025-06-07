@@ -8,22 +8,22 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 
 <table border="0" style="border: none;">
   <tr>
-    
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+    </td>
     <td>
-      <h3>🧐 More About Me:</h3>
+      <h4>🧐 More About Me:</h4>
       <ul>
-        <li>🎓 I’m currently learning at Ho Chi Minh University of Technology</li>
+        <li>🎓 I’m currently learning at University of Information Technology</li>
         <li>💼 Most of my projects are available on <a href="https://github.com/lmQuanGGGG">GitHub</a></li>
         <li>💬 Ask me about anything tech-related — I'm always happy to help!</li>
         <li>📝 Checkout my <a href="https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing">resume</a></li>
         <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-    </td>
   </tr>
 </table>
+
 
 ## ⚡ Technologies & Tools
 
