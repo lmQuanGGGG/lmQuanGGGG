@@ -8,7 +8,6 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
 [![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
 
-![image](https://github.com/user-attachments/assets/67fb7a77-d75d-488a-b4f4-aecfb172ad1d)
 ---
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
