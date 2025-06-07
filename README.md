@@ -6,22 +6,23 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
 [![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 2;">
-    <h3>🧐 More About Me:</h3>
-    <ul>
-      <li>🎓 I’m currently learning at Ho Chi Minh University of Technology</li>
-      <li>💼 Most of my projects are available on <a href="https://github.com/lmQuanGGGG">GitHub</a></li>
-      <li>💬 Ask me about anything tech-related — I'm always happy to help!</li>
-      <li>📝 Checkout my <a href="https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing">resume</a></li>
-      <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
-    </ul>
-  </div>
-  <div style="flex: 1; max-width: 40%;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width: 100%; border-radius: 8px;" />
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <h3>🧐 More About Me:</h3>
+      <ul>
+        <li>🎓 I’m currently learning at Ho Chi Minh University of Technology</li>
+        <li>💼 Most of my projects are available on <a href="https://github.com/lmQuanGGGG">GitHub</a></li>
+        <li>💬 Ask me about anything tech-related — I'm always happy to help!</li>
+        <li>📝 Checkout my <a href="https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing">resume</a></li>
+        <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Technologies & Tools
 
