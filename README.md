@@ -8,19 +8,27 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
 [![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
 
----
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
-## 🧐 More About Me:
-
-- 🎓  I’m currently learning at University University of Information Technology
-- 💼  Most of my projects are available on [GitHub](https://github.com/lmQuanGGGG)
-- 💬  Ask me about anything tech-related — I'm always happy to help!
-- 📝  Checkout my [resume](https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing)
-- 📚  In my free time, I enjoy reading fantasy and fiction novels
-
-
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+    </td>
+    <td>
+      <h3>Hey 👋, I'm Minh Quang!</h3>
+      <p>
+        I am a software engineer who easily adapts to different hats: Full Stack Web Developer 🌐, App Developer 📱 when needed.<br>
+        I specialize in <b>C# and ASP.NET Core</b> and enjoy exploring new technologies 💻 to build meaningful and high-impact projects 🛠️.
+      </p>
+      <h4>🧐 More About Me:</h4>
+      <ul>
+        <li>🎓 I’m currently learning at University of Information Technology</li>
+        <li>💼 Most of my projects are available on <a href="https://github.com/lmQuanGGGG">GitHub</a></li>
+        <li>💬 Ask me about anything tech-related — I'm always happy to help!</li>
+        <li>📝 Checkout my <a href="https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing">resume</a></li>
+        <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
+      </ul>
+  </tr>
+</table>
 👨🏻‍💻   Most of my projects are available on Github
 ---
 
@@ -41,9 +49,6 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
-
-📝   Checkout my resume
----
 
 📚   When I am free, I read fantasy and fiction novels.
 ## 📊 GitHub Stats
