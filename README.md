@@ -14,11 +14,6 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
     </td>
     <td>
-      <h3>Hey 👋, I'm Minh Quang!</h3>
-      <p>
-        I am a software engineer who easily adapts to different hats: Full Stack Web Developer 🌐, App Developer 📱 when needed.<br>
-        I specialize in <b>C# and ASP.NET Core</b> and enjoy exploring new technologies 💻 to build meaningful and high-impact projects 🛠️.
-      </p>
       <h4>🧐 More About Me:</h4>
       <ul>
         <li>🎓 I’m currently learning at University of Information Technology</li>
