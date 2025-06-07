@@ -1,5 +1,3 @@
-Hey , I'm Minh Quang!
-I am a software engineer and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 # Hey 👋, I'm Minh Quang!
 
 I am a software engineer who easily adapts to different hats: Full Stack Web Developer 🌐, App Developer 📱 when needed. I specialize in **C# and ASP.NET Core** and enjoy exploring new technologies 💻 to build meaningful and high-impact projects 🛠️.
@@ -8,7 +6,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
 [![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
 
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
@@ -22,8 +20,10 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
         <li>📝 Checkout my <a href="https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing">resume</a></li>
         <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
       </ul>
+    </td>
   </tr>
 </table>
+
 👨🏻‍💻   Most of my projects are available on Github
 ---
 
@@ -54,9 +54,6 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 ⚡ Technologies
 JavaScript Python React Java C++ HTML5 CSS3 Bootstrap MySQL Docker Amazon AWS Microsoft Azure Git GitHub GitLab
 
-📊 Github Stats
-## Hi there 👋
----
 
 <!--
 **lmQuanGGGG/lmQuanGGGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
