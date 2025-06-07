@@ -1,4 +1,63 @@
+Hey , I'm Minh Quang!
+I am a software engineer and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+# Hey 👋, I'm Minh Quang!
+
+I am a software engineer who easily adapts to different hats: Full Stack Web Developer 🌐, App Developer 📱 when needed. I specialize in **C# and ASP.NET Core** and enjoy exploring new technologies 💻 to build meaningful and high-impact projects 🛠️.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Minh%20Quang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/minh-quang-lê-624148202)](www.linkedin.com/in/minh-quang-lê-624148202)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
+[![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
+
+![image](https://github.com/user-attachments/assets/67fb7a77-d75d-488a-b4f4-aecfb172ad1d)
+---
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
+## 🧐 More About Me:
+
+- 🎓  I’m currently learning at University University of Information Technology
+- 💼  Most of my projects are available on [GitHub](https://github.com/lmQuanGGGG)
+- 💬  Ask me about anything tech-related — I'm always happy to help!
+- 📝  Checkout my [resume](https://drive.google.com/file/d/1oEqkiHr6ddQfUK93g0THRoen3pwA5I2I/view?usp=sharing)
+- 📚  In my free time, I enjoy reading fantasy and fiction novels
+
+
+👨🏻‍💻   Most of my projects are available on Github
+---
+
+💬   Ask me about anything tech related, I'm happy to help
+## ⚡ Technologies & Tools
+
+📫   Feel free to ping me on LinkedIn
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
+
+📝   Checkout my resume
+---
+
+📚   When I am free, I read fantasy and fiction novels.
+## 📊 GitHub Stats
+
+![Minh Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmQuanGGGG&show_icons=true&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmQuanGGGG&layout=compact&theme=tokyonight&hide_border=false)
+
+⚡ Technologies
+JavaScript Python React Java C++ HTML5 CSS3 Bootstrap MySQL Docker Amazon AWS Microsoft Azure Git GitHub GitLab
+
+📊 Github Stats
 ## Hi there 👋
+---
 
 <!--
 **lmQuanGGGG/lmQuanGGGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
