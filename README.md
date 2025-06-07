@@ -6,8 +6,9 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=[https://facebook.com/your-profile](https://www.facebook.com/iam.mqang/))](https://www.facebook.com/iam.mqang/)
 [![Gmail Badge](https://img.shields.io/badge/-leminhquang2k4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leminhquang2k4@gmail.com)
 
-<table>
+<table border="0" style="border: none;">
   <tr>
+    
     <td>
       <h3>🧐 More About Me:</h3>
       <ul>
@@ -18,8 +19,8 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
         <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" />
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
     </td>
   </tr>
 </table>
