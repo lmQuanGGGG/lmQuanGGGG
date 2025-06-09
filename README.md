@@ -25,7 +25,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 </table>
 
 
-## ⚡ Technologies & Tools
+⚡ Technologies & Tools
 
 📫   Feel free to ping me on LinkedIn
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
