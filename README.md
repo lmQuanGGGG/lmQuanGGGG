@@ -42,7 +42,6 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
 
-📚   When I am free, I read fantasy and fiction novels.
 ## 📊 GitHub Stats
 
 ![Minh Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmQuanGGGG&show_icons=true&theme=tokyonight&hide_border=false)
