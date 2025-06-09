@@ -48,8 +48,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 ![Minh Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmQuanGGGG&show_icons=true&theme=tokyonight&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmQuanGGGG&layout=compact&theme=tokyonight&hide_border=false)
 
-⚡ Technologies
-JavaScript Python React Java C++ HTML5 CSS3 Bootstrap MySQL Docker Amazon AWS Microsoft Azure Git GitHub GitLab
+
 
 
 <!--
