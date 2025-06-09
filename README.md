@@ -27,7 +27,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
 
 ⚡ Technologies & Tools
 
-📫   Feel free to ping me on LinkedIn
+📫   Feel free to ping me on Gmail
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
