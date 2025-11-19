@@ -10,7 +10,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
   <tr>
     <td width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-    </td>d
+    </td>
     <td>
       <h4>🧐 More About Me:</h4>
       <ul>
