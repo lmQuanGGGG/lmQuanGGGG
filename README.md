@@ -17,7 +17,7 @@ I am a software engineer who easily adapts to different hats: Full Stack Web Dev
         <li>🎓 I’m currently learning at Ho Chi Minh City University of Technology</li>
         <li>💼 Most of my projects are available on <a href="https://github.com/lmQuanGGGG">GitHub</a></li>
         <li>💬 Ask me about anything tech-related — I'm always happy to help!</li>
-        <li>📝 Checkout my <a href="https://drive.google.com/drive/folders/1MN-avsPDEmAAoYhEsGuydEMMesbYJRxH?usp=sharing">resume</a></li>
+        <li>📝 Checkout my <a href="https://minhquang-portfolio.vercel.app/">resume</a></li>
         <li>📚 In my free time, I enjoy reading fantasy and fiction novels</li>
       </ul>
     </td>
