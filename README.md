@@ -17,17 +17,17 @@ I am a performance-driven Software Engineer specializing in building scalable Su
 ---
 
 ### 🧬 Professional Highlights & Research
-- [cite_start]**Super App Architecture:** Experienced in building **Mini App Management systems** [cite: 32, 34] [cite_start]with complex lifecycle dashboards and RBAC security layers[cite: 35, 37].
-- [cite_start]**Hybrid Optimization:** Researching and fine-tuning **WebView performance** and bridge latency between Native and Web frameworks[cite: 24, 38].
-- [cite_start]**AI Agentic Systems:** Expert in **AI Integration & Prompt Engineering**, architecting autonomous agent workflows to enhance system intelligence.
-- [cite_start]**Matchmaking Logic:** Engineered recommendation engines using **Gradient Boosting** algorithms with a 94% Recall rate[cite: 24, 43].
+- **Super App Architecture:** Experienced in building **Mini App Management systems** [cite: 32, 34] [cite_start]with complex lifecycle dashboards and RBAC security layers[cite: 35, 37].
+- **Hybrid Optimization:** Researching and fine-tuning **WebView performance** and bridge latency between Native and Web frameworks[cite: 24, 38].
+- **AI Agentic Systems:** Expert in **AI Integration & Prompt Engineering**, architecting autonomous agent workflows to enhance system intelligence.
+- **Matchmaking Logic:** Engineered recommendation engines using **Gradient Boosting** algorithms with a 94% Recall rate[cite: 24, 43].
 
 ---
 
 ### 🏆 Featured Experience
-- [cite_start]**FPT IS (Intern):** Architected the **Lightbase Mini App Management CMS**, focusing on asynchronous distribution and storage systems[cite: 32, 36].
-- [cite_start]**GameNect (Lead):** Developed a gesture-driven social platform for gamers with a custom-built AI matchmaking logic[cite: 39, 42, 43].
-- [cite_start]**QConcert (Full-stack):** Built a high-traffic ticketing platform with integrated payment flows and optimized booking UX[cite: 45, 48, 50].
+- **FPT IS (Intern):** Architected the **Lightbase Mini App Management CMS**, focusing on asynchronous distribution and storage systems[cite: 32, 36].
+- **GameNect (Lead):** Developed a gesture-driven social platform for gamers with a custom-built AI matchmaking logic[cite: 39, 42, 43].
+- **QConcert (Full-stack):** Built a high-traffic ticketing platform with integrated payment flows and optimized booking UX[cite: 45, 48, 50].
 
 ---
 
