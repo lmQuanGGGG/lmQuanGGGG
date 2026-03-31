@@ -1,7 +1,7 @@
 # Hi, I'm Minh Quang! 👋 
-### Fresher Software Engineer | Mobile & Modular Systems Architect | AI Agent Engineer
+### Software Engineer | Mobile & Modular Systems Architect | AI Agent Engineer
 
-I am a performance-driven Software Engineer specializing in building scalable Super App ecosystems and AI-driven platforms. Currently, I'm focusing on Hybrid Optimization, high-concurrency backend workflows, and LLM-based Agentic systems.
+I am a performance-driven Software Engineer specializing in building scalable Super App ecosystems and AI-driven platforms. I focus on Hybrid Optimization, high-concurrency backend workflows, and LLM-based Agentic systems.
 
 ---
 
@@ -17,19 +17,20 @@ I am a performance-driven Software Engineer specializing in building scalable Su
 ---
 
 ### 🧬 Professional Highlights & Research
-- **Super App Architecture:** Experienced in building **Mini App Management systems** [cite: 32, 34] [cite_start]with complex lifecycle dashboards and RBAC security layers[cite: 35, 37].
-- **Hybrid Optimization:** Researching and fine-tuning **WebView performance** and bridge latency between Native and Web frameworks[cite: 24, 38].
-- **AI Agentic Systems:** Expert in **AI Integration & Prompt Engineering**, architecting autonomous agent workflows to enhance system intelligence.
-- **Matchmaking Logic:** Engineered recommendation engines using **Gradient Boosting** algorithms with a 94% Recall rate[cite: 24, 43].
+- **Super App Architecture:** Engineered **Mini App Management systems** with complex lifecycle dashboards and robust RBAC security layers.
+- **Hybrid Optimization:** Fine-tuned **WebView performance** and bridge latency between Native and Web frameworks to achieve minimal latency.
+- **AI Agentic Systems:** Architected autonomous agent workflows and LLM integrations to enhance system intelligence and automation.
+- **Advanced Matchmaking:** Developed recommendation engines using **Gradient Boosting** algorithms, achieving a 94% Recall rate.
 
 ---
 
 ### 🏆 Featured Experience
-- **FPT IS (Intern):** Architected the **Lightbase Mini App Management CMS**, focusing on asynchronous distribution and storage systems[cite: 32, 36].
-- **GameNect (Lead):** Developed a gesture-driven social platform for gamers with a custom-built AI matchmaking logic[cite: 39, 42, 43].
-- **QConcert (Full-stack):** Built a high-traffic ticketing platform with integrated payment flows and optimized booking UX[cite: 45, 48, 50].
+- **FPT IS | Software Developer:** Architected the **Lightbase Mini App Management CMS**, focusing on asynchronous distribution workflows and storage systems.
+- **GameNect | Lead Developer:** Engineered an end-to-end social platform for gamers featuring a gesture-driven UI and complex AI matchmaking logic.
+- **QConcert | Full-stack Developer:** Built a high-traffic ticketing platform with integrated payment flows and optimized booking performance.
 
 ---
+
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/minh-quang-l%C3%AA-624148202)
